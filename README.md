@@ -23,7 +23,7 @@ During this round, I am actively:
 - [x] Setting up my Fedora development environment.
 - [x] Engaging with the **Fedora Join SIG** and **CommOps** teams.
 - [x] Solving "Good First Issues" to understand the codebase.
-- [x] Mentoring fellow applicants by fostering a welcoming "cabin crew" environment.
+- [x] working with fellow applicants by fostering a welcoming "cabin crew" environment.
 
 ## Connect with Me
 Let’s collaborate and feed the aura of open source together!
